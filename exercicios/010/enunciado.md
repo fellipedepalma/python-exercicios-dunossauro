@@ -2,4 +2,7 @@
 
 ## Exercício 010
 
-Faça um programa que peça o raio de um círculo, calcule e mostre sua área.
+Faça um programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
+
+`Formula`
+`F = (C * 9/5) + 32`
