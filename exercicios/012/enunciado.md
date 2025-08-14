@@ -2,4 +2,7 @@
 
 ## Exercício 012
 
-Faça um programa para calcular a média de três notas.
+Tendo como dados de entrada um arquivo em Gigabytes, construa um algoritmo que faça a conversão para Megabytes, usando a seguinte fórmula:
+
+`Formula`
+`Gigabytes * 1024`
