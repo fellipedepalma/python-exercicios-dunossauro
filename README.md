@@ -23,3 +23,7 @@ Para rodar qualquer exercício:
 git clone https://github.com/fellipedepalma/python-exercicios-dunossauro.git
 cd python-exercicios-dunossauro/exercicios/001
 python solucao.py
+
+## 📌 Observação
+Essas soluções refletem meu aprendizado no momento em que foram feitas.  
+Podem não ser as únicas nem as melhores formas de resolver cada problema.
