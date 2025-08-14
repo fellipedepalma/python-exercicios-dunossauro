@@ -4,5 +4,6 @@
 
 Faça um programa que peça a temperatura em Fahrenheit e converta para Celsius.
 
-`Formula`
-`C = 5 * ((F-32) / 9)`
+```
+Fórmula
+C = 5 * ((F-32) / 9)
